@@ -2,15 +2,25 @@
 
 <!--
 **AgentOJR/AgentOJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
+    - My Bachelor's Degree in Computer Science
+    - My personal website
+    - My Neovim Configuration
 - 🌱 I’m currently learning ...
+    - C++
+    - C
+    - Rust
+    - Neovim
+    - Web Development with React
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+    - Open Source Projects
+    - Web Development Projects
+    - Game Development Projects
 - 💬 Ask me about ...
+    - Anything
+    - I'm always happy to help
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - Email: owen.rabe@icloud.com
+    - Discord: AgentOJR#6969
