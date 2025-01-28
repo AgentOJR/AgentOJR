@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning ...
     - C++
     - C
+    - ASM on ARMv7 Architecture
     - Rust
     - Neovim
     - Web Development with React
