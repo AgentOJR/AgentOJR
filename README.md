@@ -27,4 +27,5 @@
     - Discord: AgentOJR#6969
     
 ***My Skills:***
+
 [![My Skills](https://skillicons.dev/icons?i=neovim,python,arch,c,git,ts,html,css,java)](https://skillicons.dev)
