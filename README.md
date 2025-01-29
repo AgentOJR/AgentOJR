@@ -25,3 +25,5 @@
 - 📫 How to reach me: ...
     - Email: owen.rabe@icloud.com
     - Discord: AgentOJR#6969
+    
+[![My Skills](https://skillicons.dev/icons?i=neovim,python,arch,c,git,ts,html,css,java)](https://skillicons.dev)
