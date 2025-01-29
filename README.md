@@ -26,7 +26,11 @@
     - Email: owen.rabe@icloud.com
     - Discord: AgentOJR#6969
     
-**My Skills:**
+## Owen's Github Stats:
+[![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=agentojr&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## My Skills:
 
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,python,arch,c,git,ts,html,css,java)](https://skillicons.dev)
